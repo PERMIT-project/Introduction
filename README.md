@@ -8,7 +8,7 @@ To generate this personalised guidance system, electronic health care databases 
 
 This research has been carried out collaboratively at the University of Liverpool at the Institute of Translational Medicine, The Max Planck Institute of Psychiatry and The Health eResearch Centre at The University of Manchester. This project has been funded by the National Institute of Health Research Collaboration for Leadership in Applied Health Research and Care North West Coast (NIHR CLAHRC NWC). 
 
-For more information regarding the PERMIT project please visit: http://www.clahrc-nwc.nihr.ac.uk/our-work/delivering-personalised-health-and-care/renalfunctionmonitoring.php or email Ahmed el Naher: Ahmed.Al-Naher@liverpool.ac.uk 
+For more information regarding the PERMIT project please visit: http://www.clahrc-nwc.nihr.ac.uk/our-work/delivering-personalised-health-and-care/renalfunctionmonitoring.php or email Ahmed el Naher: ahmed.al-naher@liverpool.ac.uk 
 
 
 Resources for analysis
